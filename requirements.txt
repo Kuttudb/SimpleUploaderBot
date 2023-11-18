@@ -11,4 +11,4 @@ requests
 tgcrypto
 aiofiles
 bs4
-git+https://github.com/febriadj/lk21-api
+git+https://github.com/zevtyardt/lk21@main#egg=lk21
